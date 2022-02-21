@@ -1,0 +1,156 @@
+/*Header/NavBar*/
+#mainHeader {
+  background-color: white;
+  border: #e6e4e4 1px solid;
+  
+}
+
+#mainHeader .brandText {
+  font-style: inherit;
+  font-weight: 500;
+  font-size: small;
+  letter-spacing: .2rem ;
+  
+}
+#mainHeader .navbar-nav a {
+  font-style: inherit;
+  letter-spacing: .2rem ;
+  font-size: small;
+  color: rgb(126, 120, 120);
+}
+#mainHeader a:hover {
+  color: blue;
+  display: block;
+}
+
+
+/*Profile/SideBar*/
+
+#profile {
+  padding-right: 4%;
+}
+
+#profileIntro {
+  border-bottom: #e6e4e4 1px solid;
+}
+
+#profileIntro .profilePicture {
+  padding-top: 4%;
+  border-radius: 100%;
+  max-width: 50%;
+  
+}
+
+/*Content*/
+
+#contentArea {
+  padding-left: 4%;
+  padding-right: 4%;
+  background-color: white;
+  padding-top: 2%;
+  border: #e6e4e4 1px solid;
+}
+
+#contentBody .contentBodyComponent {
+  padding-top: 2%;
+}
+
+.linkContainer {
+  list-style-type: none;
+  margin: 0;
+  display: inline;
+  
+}
+.linkContainer li {
+  float: left;
+  padding-right: 2%;
+  
+}
+
+.linkContainer a {
+  font-size: 80%;
+  font-style: inherit;
+  font-weight: bold;
+  letter-spacing: .2rem ;
+  color: rgb(73, 73, 73);
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.linkContainer a:hover {
+  color: rgb(67, 67, 238);
+}
+
+
+
+/*Titles*/
+
+.componentTitle {
+  font-size: x-large;
+  font-style: inherit;
+  font-weight: bold;
+  letter-spacing: .2rem ;
+  color: rgb(73, 73, 73);
+  text-transform: uppercase;
+}
+
+#contentTitle {
+  border-bottom: #e6e4e4 1px solid;
+  padding-bottom: 3%;
+}
+
+#contentBody .componentTitle {
+  font-size: small;
+  font-weight: 750;
+
+}
+
+#profileBlurbTitle {
+  font-size: small;
+}
+/*
+h2{
+  font-style: inherit;
+  font-weight: bold;
+  letter-spacing: .2rem ;
+  color: rgb(73, 73, 73);
+  text-transform: uppercase;
+  font-size: small;
+}*/
+#profileIntro .componentTitle{
+  text-align: center;
+}
+
+/*Text/Boddies*/
+
+body {
+  background-color: #f4f4f4
+}
+
+.container {
+  max-width: 95%;
+  padding-top: 3.5%;
+}
+
+.componentText {
+  text-align: justify;
+  color: rgb(122, 121, 121);
+}
+
+#profile .componentText {
+  font-size: 85%;
+}
+#profileIntro .email{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .2rem ;
+  font-size: small;
+  
+}
+#profileIntro .email a {
+  color: rgb(126, 120, 120);
+  text-decoration: none;
+}
+#profileIntro .email a:hover {
+  color: rgb(67, 67, 238);
+}
