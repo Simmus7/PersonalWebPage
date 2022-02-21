@@ -1,44 +1,32 @@
-Estructura de la página
+Personal web page programmed using HTML, CSS and JS.
+Desing was inspired on:	<a>https://mldangelo.com/</a>(personal web page designed in react)
+(No lines of code were taken, the page was re-written trying to imitate the web desing)
+
+------------------------------------------------------------------------------
+
+Page content
 
 About Me:
 -Hobbies
+-Some History
+-Fun Facts
+-I Like
 
 Resume:
--Courses
+-Education
+-Work Experience
+-Skills
 
 Projects:
--BioRec
 -Paus Personal Care 
 -Math Calculations
 
 Stats:
--Edad
--Veces visitada la página
+-Age
 
 Contact:
+-Email
+-Cellphone
+-Github
 
 ------------------------------------------------------------------------------
-Crear tu pagina de presentación: tus características, cursos, proyectos, hobbies,etc.
-
-Validar en:  validator.w3.org
- 
-Debes usar bootstrap.
-Como mínimo dos páginas.
-Debe usar plantillas.
-
-Herramientas:
-GitHub
-URL o host gratuito como git pages
-Diapositivas en Google slides:
-
-		• Objetivo
-		• Tecnologías usadas
-		• De que se encuentra orgulloso.
-		• Que fue lo mas complicado
-		• Demo
-		
-
-Lenguajes:
-Html
-Css
-Java Script
