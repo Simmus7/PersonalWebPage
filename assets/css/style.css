@@ -55,26 +55,21 @@
   padding-top: 2%;
 }
 
-.linkContainer {
-  list-style-type: none;
-  margin: 0;
-  display: inline;
-  
-}
-.linkContainer li {
-  float: left;
-  padding-right: 2%;
-  
-}
+
 
 .linkContainer a {
+  /*
   font-size: 80%;
   font-style: inherit;
   font-weight: bold;
   letter-spacing: .2rem ;
+  */
+  font-weight: bold;
+  font-size: 85%;
+  font-style: inherit;
   color: rgb(73, 73, 73);
-  text-transform: uppercase;
   text-decoration: none;
+  
 }
 
 .linkContainer a:hover {
