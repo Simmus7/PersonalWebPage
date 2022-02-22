@@ -36,8 +36,8 @@
 
 #profileIntro .profilePicture {
   padding-top: 4%;
-  border-radius: 100%;
-  max-width: 50%;
+  padding-bottom: 5%;
+  max-width: 70%;
   
 }
 
