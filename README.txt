@@ -1,5 +1,5 @@
 Personal web page programmed using HTML, CSS and JS.
-Desing was inspired on:	https://mldangelo.com/ (personal web page designed in react)
+Desing was inspired on:	https://mldangelo.com/ (personal web page designed in React.js)
 (No lines of code were taken, the page was re-written trying to imitate the web desing)
 
 ------------------------------------------------------------------------------
